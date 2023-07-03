@@ -16,7 +16,7 @@ namespace WindowsAuthServices.Controllers
     {
        
 
-
+        //test git pull
         public IActionResult Index(string returnUrl)
         {
             if(returnUrl == null)
